@@ -48,6 +48,6 @@ export default {
 
 <style>
 body {
-  background-color: #dddd;
+  background-color: darkgray;
 }
 </style>
