@@ -1,11 +1,9 @@
 <template>
   <div class="row">
     <div class="col-md-8">
-      <input />
+      <input @change="onInput" />
     </div>
-    <div class="col-md-2">
-      <button class="btn btn-success" @click="onInput">Serch</button>
-    </div>
+    <div class="col-md-2"></div>
   </div>
 </template>
 
